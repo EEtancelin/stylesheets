@@ -8,6 +8,10 @@
 @import "bootstrap";
 @import "font-awesome-sprockets";
 @import "font-awesome";
+@import "semantic-ui";
+
+// My CSS helpers
+@import "helper/index";
 
 // Your CSS partials
 @import "layouts/index";
