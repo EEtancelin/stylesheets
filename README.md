@@ -1,5 +1,17 @@
 ## Setup
 
+Noframework is not a front-end Framework. It's Rails /app/asset/Stylesheet Boilerplate build with productivity in mind. No-framework bring you set of simple Css class, to prototype quickly just by adding simple class to you're HTML element.
+
+For now NoFramework bring helpfull class for
+  Padding
+  Margin
+  Flex
+
+You will love NoFrawework with Hot Module Reloading, nothing more fun that changing few components style in you're dom in half a second  and seeing half a second later how it look well (Or not ;-) in you're browser.
+
+
+
+##Requirement
 Ensure you have the following gems in your Rails `Gemfile`
 
 ```ruby
